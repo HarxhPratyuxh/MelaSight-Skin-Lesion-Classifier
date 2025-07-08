@@ -20,6 +20,10 @@ MelaSight is an in-progress AI project focused on classifying skin lesions as be
 - Evaluation metrics: ROC-AUC, confusion matrix, F1-score
 - Deployment-ready modular code
 
+## 🗺️ Architecture
+
+![Architecture](architecture.png)
+
 ## ✅ Current Status
 Project setup in progress. Model pipeline design and preprocessing workflows being implemented.  
 Code and experiments will be pushed progressively.
