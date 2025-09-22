@@ -32,6 +32,7 @@ Code and experiments will be pushed progressively.
 - ISIC 2020 Challenge Dataset: [ISIC Archive](https://challenge.isic-archive.com/data/)
 
 ## ✍️ Author
+Diya Guglani
 Harsh Pratyush Sinha
 
 ## 📄 License
